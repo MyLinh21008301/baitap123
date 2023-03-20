@@ -1,0 +1,64 @@
+#bai6B{
+            margin-top: 50px;
+            background-color:blanchedalmond;
+}
+#table6B {
+            width: 300px;
+            height: 400px;
+}
+#table6B td{
+            height: auto;
+            width: auto;
+}
+#table6B tr td a{
+            display: flex;
+            text-align: left;
+}
+#bai6C {
+            margin-top: 50px;
+            width: auto;
+            height: auto;
+            background-color: bisque;
+}
+#table6C>caption{
+            caption-side: top;
+            color:rgb(204, 36, 173);
+            font-size: 20px;
+            font-weight: 800;
+}
+#bai6C #table6C{
+            /* display: flex;
+            margin-top: 10px;
+            margin-left: 10px;
+            margin-right: 10px;*/
+            width: auto;
+            height: auto;
+            border:3px solid rgb(204, 36, 173);
+            background-color: hsl(324, 70%, 88%); 
+            
+            
+}
+#bai6C #table6C td {
+            height: 25px;
+            width: 100px;
+            font-style: bold;
+}
+#bai6C #table6C #stt {
+            width: 30px;
+            
+}
+
+#bai6C #table6C #tttable{
+            text-decoration: underline solid;
+            font-weight:700;
+            background-color: violet;
+}
+#row2 #stt, #row3 #stt, #row4 #stt, #row5 #stt,#row6 #stt{
+            background-color: rgb(184, 210, 240);
+            color: black;
+}
+#maintable { 
+          font-style: italic;
+          font-weight: 800;
+          color: rgb(34, 131, 242);
+};
